@@ -2,6 +2,7 @@
 0.0.0.0 inbet.bg
 0.0.0.0 betamo.bg
 0.0.0.0 bet365.com
+0.0.0.0 www.bet365.com
 0.0.0.0 inbetpartners.com
 0.0.0.0 egt-digital.com
 0.0.0.0 winbetaffiliates.com
@@ -43,4 +44,3 @@
 0.0.0.0 efirbet.com
 0.0.0.0 casino-tsar.bg
 0.0.0.0 extra.bet365.com
-0.0.0.0 .*(bet364)[.]com$
