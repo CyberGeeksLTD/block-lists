@@ -1,16 +1,9 @@
 0.0.0.0 winbet.bg
-0.0.0.0 *.winbet.bg
 0.0.0.0 inbet.bg
-0.0.0.0 *.inbet.bg
 0.0.0.0 betamo.bg
-0.0.0.0 *.betamo.bg
 0.0.0.0 bet365.com
-0.0.0.0 *.bet365.com
 0.0.0.0 inbetpartners.com
-0.0.0.0 *.inbetpartners.com
 0.0.0.0 egt-digital.com
-0.0.0.0 *.egt-digital.com
 0.0.0.0 winbetaffiliates.com
-0.0.0.0 *.winbetaffiliates.com
 0.0.0.0 inbet.com
-0.0.0.0 *.inbet.com
+0.0.0.0 advertere.zamunda.net
