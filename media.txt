@@ -1,0 +1,16 @@
+0.0.0.0 pik.bg
+0.0.0.0 www.pik.bg
+0.0.0.0 blitz.bg
+0.0.0.0 www.blitz.bg
+0.0.0.0 bradva.bg
+0.0.0.0 www.bradva.bg
+0.0.0.0 afera.bg
+0.0.0.0 www.afera.bg
+0.0.0.0 flagman.bg
+0.0.0.0 www.flagman.bg
+0.0.0.0 lupa.bg
+0.0.0.0 www.lupa.bg
+0.0.0.0 epicenter.bg
+0.0.0.0 www.epicenter.bg
+0.0.0.0 19min.bg
+0.0.0.0 www.19min.bg
