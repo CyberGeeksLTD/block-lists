@@ -1,0 +1,7 @@
+0.0.0.0 dns.opendns.com
+0.0.0.0 doh.opendns.com
+0.0.0.0 dns.umbrella.com
+0.0.0.0 dns.google
+0.0.0.0 doh.dns.apple.com
+0.0.0.0 doh.umbrella.com
+
