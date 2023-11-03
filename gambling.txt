@@ -55,3 +55,6 @@
 0.0.0.0 efirbet.com
 0.0.0.0 casino-tsar.bg
 0.0.0.0 extra.bet365.com
+0.0.0.0 magicbet.bg
+0.0.0.0 www.magicbet.bg
+
