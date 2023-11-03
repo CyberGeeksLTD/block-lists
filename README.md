@@ -8,6 +8,7 @@
 -- | :--: | :-- | --:
 Залози | [Адрес](https://cybergeeksltd.github.io/block-lists/gambling.txt) | Списък със сайтове за залагания | Начална
 Медии | [Адрес](https://cybergeeksltd.github.io/block-lists/media.txt) | Медии със съмнителна полза за обществото | Начална
+DNS | [Адрес](https://cybergeeksltd.github.io/block-lists/dns-encrypted-dns.txt) | DNS и криптиран DNS | Начална
 
 # Разширяване на съдържанието
 Всеки, който пожелае, може да допринесе в развитието на списъците, като:
