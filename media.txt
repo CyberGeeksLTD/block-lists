@@ -14,3 +14,5 @@
 0.0.0.0 www.epicenter.bg
 0.0.0.0 19min.bg
 0.0.0.0 www.19min.bg
+0.0.0.0 kritichno.bg
+0.0.0.0 www.kritichno.bg
