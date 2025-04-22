@@ -62,3 +62,7 @@
 0.0.0.0 bethub.bg
 0.0.0.0 www.bethub.bg
 0.0.0.0 elitbet.bg
+0.0.0.0 www.elitbet.bg
+0.0.0.0 mrbit.bg
+0.0.0.0 www.mrbit.bg
+
