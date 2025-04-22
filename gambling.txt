@@ -67,3 +67,4 @@
 0.0.0.0 www.mrbit.bg
 0.0.0.0 palmsbet.com
 0.0.0.0 www.palmsbet.com
+0.0.0.0 everbet.com
