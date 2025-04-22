@@ -65,4 +65,5 @@
 0.0.0.0 www.elitbet.bg
 0.0.0.0 mrbit.bg
 0.0.0.0 www.mrbit.bg
-
+0.0.0.0 palmsbet.com
+0.0.0.0 www.palmsbet.com
