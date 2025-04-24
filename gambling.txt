@@ -1,5 +1,7 @@
 0.0.0.0 winbet.bg
+0.0.0.0 www.winbet.bg
 0.0.0.0 inbet.bg
+0.0.0.0 www.inbet.bg
 0.0.0.0 betamo.bg
 0.0.0.0 www.betamo.bg
 0.0.0.0 dd.betano.bg
